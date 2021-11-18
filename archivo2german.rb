@@ -1,1 +1,1 @@
-puts 'archivo de prueba 2 (no estoy muy creativo hoy)'
+puts 'Recién día miercoles y no tienes creatividad... no quiero saber el viernes '
