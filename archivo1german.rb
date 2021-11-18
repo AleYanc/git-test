@@ -1,1 +1,2 @@
-puts 'archivo de prueba 1' 'cambio para generar conflicto'
+puts 'archivo de prueba 1' 
+puts 'cambiando archivo'
